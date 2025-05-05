@@ -23,7 +23,7 @@ Aplicação **Shiny** para análise territorial da longevidade nos municípios b
 
 | Painel                             | Finalidade                                                                     |
 | ---------------------------------- | ------------------------------------------------------------------------------ |
-| **Mapa Interativo do Brasil**      | Coropléticos de indicadores (brutos ou per‑capita) com filtro por UF.          |
+| **Mapa Interativo do Brasil**      | Mapas Coropléticos de variáveis brutas ou per‑capitas com filtro por UF.       |
 | **Tabela de Dados**                | Filtros dinâmicos, DataTable exportável e scatterplots Plotly entre variáveis. |
 | **Raio‑X Municipal**               | Gráfico radar normalizado (0‑1) comparando municípios.                         |
 | **Resíduos**                       | Mapa dos resíduos dos modelos (OLS, SAR, GWR, MGWR) + sumário estatístico.     |
