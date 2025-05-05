@@ -1,3 +1,4 @@
+Copyright (c) 2025 Paulo Vescovi
 # Carregando as bibliotecas necessárias
 library(shiny)
 library(bslib)
